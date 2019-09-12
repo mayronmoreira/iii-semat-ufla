@@ -1,0 +1,7 @@
+Seg 8,Esporte 9,Esporte 12,Almoco 18,Janta 19,D-01 20,D-01 21,D-02 22,D-02 
+Ter 12,Almoco 16,D-06 17,D-06 18,Janta 19,D-03 20,D-03 21,D-04 22,D-04
+Qua 8,Esporte 9,Esporte 12,Almoco 18,Janta 19,D-05 20,D-05 21,D-01 22,D-01 
+Qui 12,Almoco 18,Janta 19,D-02 20,D-02 21,D-03 22,D-03
+Sex 8,Esporte 9,Esporte 12,Almoco 16,D-06 17,D-06 18,Janta 19,D-04 20,D-04 21,D-05 22,D-05
+Sab 12,Almoco 13,Almoco
+Dom 12,Almoco 13,Almoco
